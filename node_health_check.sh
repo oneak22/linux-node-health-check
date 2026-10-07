@@ -33,3 +33,5 @@ ps aux --sort=-%cpu | head -6
 
 echo
 echo "Health Check Completed Successfully."
+
+#chmod +x node_health_check.sh when you have to run file give permission.
